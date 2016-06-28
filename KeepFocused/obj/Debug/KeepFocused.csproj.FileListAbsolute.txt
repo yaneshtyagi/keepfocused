@@ -1,0 +1,40 @@
+D:\Yanesh\Projects\KeepFocused\KeepFocused\bin\Debug\KeepFocused.exe
+D:\Yanesh\Projects\KeepFocused\KeepFocused\bin\Debug\KeepFocused.pdb
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.Properties.Resources.resources
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.Task.resources
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.csproj.GenerateResource.Cache
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.exe
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.pdb
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.KeepFocusedForm.resources
+D:\Yanesh\Projects\KeepFocused\KeepFocused\obj\Debug\KeepFocused.frmInfo.resources
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.exe
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.pdb
+F:\soft\keepfocused\KeepFocused\bin\Debug\KeepFocused.exe
+F:\soft\keepfocused\KeepFocused\bin\Debug\KeepFocused.pdb
+F:\soft\keepfocused\KeepFocused\obj\Debug\ResolveAssemblyReference.cache
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.frmInfo.resources
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.KeepFocusedForm.resources
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.Properties.Resources.resources
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.Task.resources
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.csproj.GenerateResource.Cache
+F:\soft\keepfocused\KeepFocused\bin\Debug\KeepFocused.exe.manifest
+F:\soft\keepfocused\KeepFocused\bin\Debug\KeepFocused.application
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.exe.manifest
+F:\soft\keepfocused\KeepFocused\obj\Debug\KeepFocused.application
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\bin\Debug\KeepFocused.exe.config
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.exe
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.pdb
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\bin\Debug\KeepFocused.exe.manifest
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\bin\Debug\KeepFocused.application
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\bin\Debug\KeepFocused.exe
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\bin\Debug\KeepFocused.pdb
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.frmInfo.resources
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.KeepFocusedForm.resources
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.Options.resources
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.Properties.Resources.resources
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.Task.resources
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.csproj.GenerateResource.Cache
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.exe.manifest
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.application
+Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.csprojResolveAssemblyReference.cache

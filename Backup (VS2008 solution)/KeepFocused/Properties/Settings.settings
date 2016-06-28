@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KeepFocused.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TickingSoundFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Clock-Tick1.wav</Value>
+    </Setting>
+    <Setting Name="AlarmSoundFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ringing.wav</Value>
+    </Setting>
+    <Setting Name="PlayAlarmSound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PlayTickingSound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SessionTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25:00</Value>
+    </Setting>
+    <Setting Name="BreakTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5:00</Value>
+    </Setting>
+    <Setting Name="Left" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Top" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
