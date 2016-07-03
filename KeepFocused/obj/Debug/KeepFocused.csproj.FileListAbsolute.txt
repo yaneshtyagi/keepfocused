@@ -38,3 +38,19 @@ Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\Ke
 Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.exe.manifest
 Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.application
 Y:\YTPD\Dropbox\Dropboc_yaty\Dropbox\yatyfy\Projects\KeepFocused\SVN Checkout\KeepFocused\obj\Debug\KeepFocused.csprojResolveAssemblyReference.cache
+D:\open-source\github\keepfocused\KeepFocused\bin\Debug\KeepFocused.exe.config
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.csprojResolveAssemblyReference.cache
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.frmInfo.resources
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.KeepFocusedForm.resources
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.Options.resources
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.Properties.Resources.resources
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.Task.resources
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.csproj.GenerateResource.Cache
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.exe.manifest
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.exe
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.pdb
+D:\open-source\github\keepfocused\KeepFocused\bin\Debug\KeepFocused.exe.manifest
+D:\open-source\github\keepfocused\KeepFocused\bin\Debug\KeepFocused.application
+D:\open-source\github\keepfocused\KeepFocused\bin\Debug\KeepFocused.exe
+D:\open-source\github\keepfocused\KeepFocused\bin\Debug\KeepFocused.pdb
+D:\open-source\github\keepfocused\KeepFocused\obj\Debug\KeepFocused.application

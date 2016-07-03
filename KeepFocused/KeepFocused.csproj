@@ -215,8 +215,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="KfLogo32x29.ico" />
+    <Content Include="Resources\Black Hand 32x32.jpg" />
     <Content Include="Resources\clock-tick1.wav" />
+    <Content Include="Resources\KeepFocusedTitle.png" />
+    <Content Include="Resources\KeepFocusedTitleVerticle.png" />
+    <Content Include="Resources\kfLogo15x14.png" />
+    <Content Include="Resources\kfLogo15x14Black.png" />
     <Content Include="Resources\KfLogo32x29.ico" />
+    <Content Include="Resources\KfLogo32x29.png" />
+    <Content Include="Resources\KfLogoLarge.png" />
     <Content Include="Resources\ringing.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
